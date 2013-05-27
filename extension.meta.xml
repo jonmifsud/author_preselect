@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension id="author_preselect" status="released" xmlns="http://symphony-cms.com/schemas/extension/1.0">
+	<name>Author Preselect</name>
+	<description>Preselect an Author when adding/editing entries, especially useful when Using a separated Section for Author Handling rather then the Default Symphony Author Section. Uses Backend Language Switcher Author Options to make the selection</description>
+	<repo type="github">https://github.com/jonmifsud/author_preselect</repo>
+	<url type="discuss">http://getsymphony.com/</url>
+	<types>
+		<type>Workflow</type>
+	</types>
+	<authors>
+		<author>
+			<name github="jonmifsud" symphony="gunglien">Jon Mifsud</name>
+			<website>http://jonmifsud.com</website>
+			<email>info@jonmifsud.com</email>
+		</author>
+	</authors>
+	<releases>
+		<release version="0.1" date="2013-05-27" min="2.3">
+			* First Release
+		</release>
+	</releases>
+</extension>
